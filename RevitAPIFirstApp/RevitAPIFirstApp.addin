@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIFirstApp.dll"</Assembly>
+		<AddInId>BE3C4E6C-1F91-4108-A8B7-8C9A01C9730C</AddInId>
+		<FullClassName>RevitAPIFirstApp.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Нумерация помещений</Text>
+	</AddIn>
+</RevitAddIns>
